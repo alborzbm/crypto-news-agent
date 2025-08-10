@@ -32,7 +32,7 @@ Follow these steps to get the project running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/crypto-news-agent.git](https://github.com/YOUR_USERNAME/crypto-news-agent.git)
+git clone [https://github.com/alborzbm/crypto-news-agent.git](https://github.com/alborzbm/crypto-news-agent.git)
 cd crypto-news-agent
 ```
 

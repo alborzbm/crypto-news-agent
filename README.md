@@ -4,7 +4,6 @@ This project is a Python-based agent that automatically fetches the latest news 
 
 The agent provides a summary, relevant keywords, and the overall sentiment (Positive, Negative, Neutral) for each news item, delivering a concise daily report directly in your terminal.
 
-![Sample Output](./sample_output.png)
 
 ---
 

@@ -1,0 +1,24 @@
+# Secret and environment-specific files
+# This file contains your API key and must NOT be shared on GitHub.
+.env
+
+# Python compiled files and caches
+# These are generated automatically by Python to speed up execution and are not needed in the repository.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and code editor configuration folders
+# These folders store your personal settings for editors like VS Code or PyCharm.
+.vscode/
+.idea/
+
+# Operating System specific files
+# These are automatically created by macOS and Windows and have no value for the project itself.
+.DS_Store
+Thumbs.db
+
+# Log files
+# If your application generates log files, they should not be tracked.
+*.log
